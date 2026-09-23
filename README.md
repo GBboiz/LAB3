@@ -4,10 +4,6 @@
 
 - **Họ và tên:** Phạm Gia Bảo
 - **MSSV:** 1150080043
-- **Môn học:** An toàn thông tin
-- **Bài thực hành:** LAB 3
-- **Tên bài:** Nhận diện và ứng phó các mối đe dọa đến an toàn thông tin
-
 ---
 
 ## 2. Mục tiêu bài thực hành
